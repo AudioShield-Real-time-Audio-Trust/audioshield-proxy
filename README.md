@@ -13,6 +13,9 @@ Real-time Streaming: Optimized binary data handling for zero-lag ingestion.
 
 Protocol Normalization: Standardizes varied audio inputs into uniform chunks.
 
-🛠️ Technical Stack
+## Available Scripts
 
-Runtime: Node.js 24 (LTS)
+- `npm run build` - Compile TypeScript to JavaScript
+- `npm start` - Run the compiled JavaScript
+- `npm run dev` - Run in development mode with auto-reload
+- `npm run clean` - Remove the dist directory
